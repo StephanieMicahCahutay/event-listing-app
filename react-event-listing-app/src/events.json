@@ -1,0 +1,117 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "title": "Sinulog Festival",
+        "type": "Cultural",
+        "description": "Experience the vibrant Sinulog Festival in Cebu City with traditional dances, colorful parades, and local music celebrating the feast of the Santo Niño.",
+        "location": "Cebu City, Philippines",
+        "date": "2024-01-15",
+        "organizer": {
+          "name": "Cebu Cultural Committee",
+          "description": "Dedicated to preserving and promoting the rich culture of Cebu through various local events and festivals.",
+          "contactEmail": "info@cebufestivals.ph",
+          "contactPhone": "632-555-1234"
+        }
+      },
+      {
+        "id": "2",
+        "title": "Manila Tech Week",
+        "type": "Technology",
+        "description": "Join leading experts and enthusiasts for a week of workshops, talks, and networking events focused on the latest in tech innovation and startups.",
+        "location": "Manila, Philippines",
+        "date": "2024-07-20",
+        "organizer": {
+          "name": "Tech Manila Inc.",
+          "description": "Bringing together technology professionals and enthusiasts to foster innovation and growth in the Philippine tech industry.",
+          "contactEmail": "contact@techmanila.org",
+          "contactPhone": "632-555-2345"
+        }
+      },
+      {
+        "id": "3",
+        "title": "Boracay International Music Festival",
+        "type": "Music",
+        "description": "Feel the beat of international and local artists on the beautiful shores of Boracay. A perfect blend of sun, sand, and sound.",
+        "location": "Boracay, Philippines",
+        "date": "2024-05-05",
+        "organizer": {
+          "name": "Boracay Sounds",
+          "description": "Organizing world-class music events to showcase the best of international and Filipino talent in picturesque settings.",
+          "contactEmail": "info@boracaysounds.ph",
+          "contactPhone": "632-555-3456"
+        }
+      },
+      {
+        "id": "4",
+        "title": "Davao Kadayawan Festival",
+        "type": "Cultural",
+        "description": "Celebrate the bounty of harvest with Davao's annual Kadayawan Festival. Enjoy the indigenous music, dance, and crafts of the region.",
+        "location": "Davao City, Philippines",
+        "date": "2024-08-11",
+        "organizer": {
+          "name": "Davao Festivals Ltd.",
+          "description": "Promotes local traditions and tourism in Davao through the annual Kadayawan Festival and other cultural events.",
+          "contactEmail": "support@davaofestivals.ph",
+          "contactPhone": "632-555-4567"
+        }
+      },
+      {
+        "id": "5",
+        "title": "Palawan Eco-Conference",
+        "type": "Educational",
+        "description": "Join environmental experts in discussions about sustainable living and eco-friendly practices in one of the world's most beautiful islands.",
+        "location": "Palawan, Philippines",
+        "date": "2024-09-15",
+        "organizer": {
+          "name": "Green Palawan",
+          "description": "A non-profit organization committed to environmental education and sustainable tourism practices.",
+          "contactEmail": "eco@greenpalawan.ph",
+          "contactPhone": "632-555-6789"
+        }
+      },
+      {
+        "id": "6",
+        "title": "Metro Manila Food Festival",
+        "type": "Food & Drink",
+        "description": "Savor the flavors of the Philippines with a weekend of food tasting, culinary workshops, and chef showdowns.",
+        "location": "Metro Manila, Philippines",
+        "date": "2024-03-22",
+        "organizer": {
+          "name": "Foodie Manila",
+          "description": "Celebrating Filipino cuisine and culinary innovation through community-based food festivals.",
+          "contactEmail": "contact@foodiemanila.ph",
+          "contactPhone": "632-555-7890"
+        }
+      },
+      {
+        "id": "7",
+        "title": "Baguio Arts Expo",
+        "type": "Arts",
+        "description": "Explore a stunning collection of artworks from established and emerging artists in the cool mountain city of Baguio.",
+        "location": "Baguio City, Philippines",
+        "date": "2024-12-05",
+        "organizer": {
+          "name": "Baguio Arts Collective",
+          "description": "Dedicated to fostering artistic expression and cultural events in Northern Luzon.",
+          "contactEmail": "arts@baguioexpo.ph",
+          "contactPhone": "632-555-8901"
+        }
+      },
+      {
+        "id": "8",
+        "title": "Cebu Health & Wellness Retreat",
+        "type": "Health & Wellness",
+        "description": "Revitalize your body and mind with yoga, meditation, and wellness workshops in the serene surroundings of Cebu.",
+        "location": "Cebu, Philippines",
+        "date": "2024-11-30",
+        "organizer": {
+          "name": "Wellness Warriors Cebu",
+          "description": "Promoting health and wellness through holistic practices and natural therapies.",
+          "contactEmail": "wellness@cebu.com",
+          "contactPhone": "632-555-9012"
+        }
+      }
+    ]
+  }
+  
